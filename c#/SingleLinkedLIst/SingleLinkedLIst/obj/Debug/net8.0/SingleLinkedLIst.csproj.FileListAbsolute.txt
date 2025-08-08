@@ -1,0 +1,14 @@
+D:\c#\SingleLinkedLIst\SingleLinkedLIst\bin\Debug\net8.0\SingleLinkedLIst.exe
+D:\c#\SingleLinkedLIst\SingleLinkedLIst\bin\Debug\net8.0\SingleLinkedLIst.deps.json
+D:\c#\SingleLinkedLIst\SingleLinkedLIst\bin\Debug\net8.0\SingleLinkedLIst.runtimeconfig.json
+D:\c#\SingleLinkedLIst\SingleLinkedLIst\bin\Debug\net8.0\SingleLinkedLIst.dll
+D:\c#\SingleLinkedLIst\SingleLinkedLIst\bin\Debug\net8.0\SingleLinkedLIst.pdb
+D:\c#\SingleLinkedLIst\SingleLinkedLIst\obj\Debug\net8.0\SingleLinkedLIst.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\SingleLinkedLIst\SingleLinkedLIst\obj\Debug\net8.0\SingleLinkedLIst.AssemblyInfoInputs.cache
+D:\c#\SingleLinkedLIst\SingleLinkedLIst\obj\Debug\net8.0\SingleLinkedLIst.AssemblyInfo.cs
+D:\c#\SingleLinkedLIst\SingleLinkedLIst\obj\Debug\net8.0\SingleLinkedLIst.csproj.CoreCompileInputs.cache
+D:\c#\SingleLinkedLIst\SingleLinkedLIst\obj\Debug\net8.0\SingleLinkedLIst.dll
+D:\c#\SingleLinkedLIst\SingleLinkedLIst\obj\Debug\net8.0\refint\SingleLinkedLIst.dll
+D:\c#\SingleLinkedLIst\SingleLinkedLIst\obj\Debug\net8.0\SingleLinkedLIst.pdb
+D:\c#\SingleLinkedLIst\SingleLinkedLIst\obj\Debug\net8.0\SingleLinkedLIst.genruntimeconfig.cache
+D:\c#\SingleLinkedLIst\SingleLinkedLIst\obj\Debug\net8.0\ref\SingleLinkedLIst.dll
